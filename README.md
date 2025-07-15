@@ -1,8 +1,17 @@
-# Hey there, I'm Esmo 👋
+# Hey there, I'm Esmira 👋
 
-🚀 Aspiring Frontend Developer | JavaScript Enthusiast | Design Lover  
-🎯 Currently leveling up in coding, algorithms & UI/UX  
-🧠 Big believer in discipline, consistency & main character energy
+Hey! I'm Esmira — a passionate front-end learner, aspiring developer, and creative soul from Georgia 🇬🇪  
+I’m currently on a **glow-up journey** in both coding and life ✨  
+Right now, I’m focused on mastering **JavaScript, React**, and crafting clean, beautiful designs with **Figma**.  
+
+🎯 My biggest goals:
+- Become disciplined & consistent with my learning  
+- Build meaningful projects that challenge me  
+- Grow into a developer who creates things that *inspire others*
+
+Outside of code, I love music (K-pop stan 💜), design, and exploring mindset & personal growth.  
+This is just the beginning — I’m building my dream life one commit at a time 💻🌱
+
 
 ---
 
