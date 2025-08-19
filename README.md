@@ -1,3 +1,5 @@
+<img src="https://pacman.abozanona.me?username=EsmoAghamedova" />
+
 # Hey there, I'm Esmira 👋
 
 Hey! I'm Esmira — a passionate front-end learner, aspiring developer, and creative soul from Georgia 🇬🇪  
