@@ -37,7 +37,7 @@ This is just the beginning — I’m building my dream life one commit at a time
 
 ### 📈 GitHub Stats
 
-![Esmo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsmoAghamedova&show_icons=true&theme=tokyonight&count_private=true)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsmoAghamedova&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsmoAghamedova&theme=tokyo-night)
 
