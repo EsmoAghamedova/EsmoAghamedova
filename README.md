@@ -27,7 +27,7 @@ I’m currently on a **personal & technical glow-up journey** — focusing on di
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-JavaScript%20%7C%20React%20%7C%20Flask-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Python%20%7C%20Flask-blueviolet?style=for-the-badge" />
 </p>
 
 ---
