@@ -1,52 +1,42 @@
-<!-- Animated wave -->
 <h1 align="center">
   Hi, I'm Esmira 👋
 </h1>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F24E1E&center=true&vCenter=true&width=500&lines=Aspiring+Front-End+Developer;Learning+JavaScript+%26+React;Exploring+Backend+with+Flask;Building+One+Commit+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F24E1E&center=true&vCenter=true&width=500&lines=Aspiring+Backend+Developer;Building+REST+APIs+with+Flask;Learning+Python+%26+Databases;Crafting+Clean+%26+Scalable+Code" />
 </p>
 
 ---
 
 ## 🌱 About Me
 
-Hey! I’m **Esmira**, a passionate front-end learner and aspiring full-stack developer from **Georgia 🇬🇪**.  
-I’m currently on a **personal & technical glow-up journey** — focusing on discipline, consistency, and *real understanding* ✨
+Hey! I’m **Esmira**, a passionate and logic-driven aspiring **Backend Engineer** from **Georgia 🇬🇪**.  
+I am currently locked into a strict technical grind—focusing on database relationships, API architecture, data structures, and the core principles of clean software engineering ✨
 
-- 💻 Front-end focused (JavaScript, React)
-- 🧠 Learning backend fundamentals with Python & Flask
-- 🎨 UI/UX lover (Figma)
-- 🚀 Goal-driven & growth-oriented
+- 🧠 **Main Focus:** Backend Architecture (Python, Flask, Relational Databases)
+- 🗄️ **Data & Storage:** Learning SQL, database design, and ORM mapping (SQLAlchemy)
+- 🔧 **Tools & Workflow:** Practicing Git version control, testing, and clean code (PEP 8)
+- 🌐 **Web Ecosystem:** Understanding HTTP protocols, status codes, and JSON data parsing
 
-> *I don’t rush. I build things properly.*
-
----
-
-## 🧠 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Python%20%7C%20Flask-blueviolet?style=for-the-badge" />
-</p>
+> *I don't just write code that runs. I build systems that make sense.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ✅ Comfortable with
+### 💾 Backend & Core Infrastructure (Primary Focus)
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 📚 Actively Learning
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🌐 Client-Side & Tools (Secondary / Foundations)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -54,35 +44,34 @@ I’m currently on a **personal & technical glow-up journey** — focusing on di
 
 ## 🎯 Yearly Goals (2026)
 
-- [ ] Master JavaScript fundamentals (deep understanding)
-- [ ] Build 3–5 strong portfolio projects
-- [ ] Get confident with React basics
-- [ ] Learn backend foundations (auth, DBs, APIs)
-- [ ] Design full UIs in Figma
-- [ ] Commit code consistently
-- [ ] Think before using AI
+- [ ] Master Python core concepts (Data structures, Decorators, Generaters)
+- [ ] Implement solid OOP, SOLID principles, and strict Clean Code standards
+- [ ] Build 3–5 secure and fully functional **REST API** backend projects
+- [ ] Deep dive into complex SQL queries, migrations, and schema design (PostgreSQL)
+- [ ] Learn backend security basics (Password hashing, JWT Authentication)
+- [ ] Maintain a clean code review process and think deeply before using AI 🧠
 
 ---
 
-## 🗓️ 2026 Year Plan — Backend ➜ Frontend ➜ Full-Stack
+## 🗓️ 2026 Technical Roadmap — Focus: Backend
 
-> Jan–May: Backend-heavy foundations  
-> Jun–Sep: Frontend-heavy (course season)  
-> Oct–Dec: Full-stack + portfolio + interview basics
+> **Q1–Q2 (Current):** Intensive Backend Core (Advanced Python, Flask REST APIs, PostgreSQL relations, Git workflow)  
+> **Q3:** API Security, Unit Testing (`pytest`), and integration with core frontend components (Vanilla JS, React)  
+> **Q4:** Full-stack synthesis, building complex capstone projects, and rigorous Technical Interview preparation
+
 ---
 
----
+## 📌 Featured Backend Projects
 
-## 📌 Pinned Projects
+### 🌿 CalmSpace (Flask Web Application)
+*A mental wellness and personal productivity platform built to handle structured user routines.*
 
-> ⭐ These represent my learning journey and progress
+- **Backend Architecture:** Built with Flask, managing data pipelines and routing logic.
+- **Database Design:** Implemented relational schemas using SQLAlchemy ORM (SQLite / PostgreSQL integration).
+- **Core Features:** Robust User Authentication, customized activity logging, and structured relational tables.
+- **Project Goal:** Mastering application patterns, database modeling, and structured backend architecture.
 
-### 🌿 CalmSpace (Flask App)
-- Mental wellness & productivity web app
-- Mood tracking, habits, todos, admin dashboard
-- Flask, Jinja, SQLite / PostgreSQL
-
-*(More coming as I grow)*
+*(More pure REST APIs and database-driven projects coming as I progress! ⏳)*
 
 ---
 
@@ -107,5 +96,5 @@ I’m currently on a **personal & technical glow-up journey** — focusing on di
 
 ---
 
-✨ Thanks for stopping by  
-I’m learning, building, failing, fixing — and showing up every day 🚀
+✨ Thanks for stopping by!  
+Analyzing problems, designing databases, debugging logs, and showing up every single day 🚀
